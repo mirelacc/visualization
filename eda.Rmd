@@ -1,0 +1,27 @@
+## Visualization / Exploratory Data Analysis
+
+https://github.com/mbostock/d3/wiki/Gallery
+
+https://image-store.slidesharecdn.com/0060c723-b721-408d-b450-321ec186ed8a-large.
+
+https://econsultancy.com/blog/67465-data-visualization-14-jaw-dropping-examples/
+
+http://priceonomics.com/how-william-cleveland-turned-data-visualization/
+
+http://www.legaltechdesign.com/wp-content/uploads/2014/02/Legal-Tech-Design-Periodic-Table-of-Visualization-Methods.png
+
+http://bl.ocks.org/blacki/ebba08223eba20b56b62
+
+http://www.perceptualedge.com/blog/?p=2239
+
+http://www.informationisbeautiful.net/
+
+http://keshif.me/demo/VisTools
+
+https://www.reddit.com/r/DataIsBeautiful
+
+https://responsibledata.io/data-vizualisation-links-and-articles/
+
+Note: check critique on box-plots!
+
+http://visualoop.com/blog/32470/a-look-at-box-plots
