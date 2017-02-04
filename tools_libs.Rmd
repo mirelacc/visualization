@@ -1,0 +1,117 @@
+
+## Py
+
+http://stanford.edu/~mwaskom/software/seaborn/
+
+https://www.youtube.com/watch?v=xAoljeRJ3lU
+
+https://www.youtube.com/watch?v=uPIrPWBOBEg +
+
+http://nbviewer.jupyter.org/github/datasciencela/code-from-meetup-talks/blob/master/201411-PyDSLAmeetup-TamaraKnutsen-VisualizationTools/Python_Plotting_Libraries.ipynb
+
+http://www.datasciencecentral.com/profiles/blogs/opensource-python-visualization-libraries
+
+http://www.kdnuggets.com/2015/11/overview-python-visualization-tools.html
+
+https://www.youtube.com/watch?v=9F_kkf7CDQs&t=1608s
+
+https://www.youtube.com/watch?v=IcdMcY-EaH4
+
+https://www.youtube.com/watch?v=Wh8ROebKcyo
+
+https://plot.ly/?utm_source=r-bloggers&utm_medium=banner&utm_campaign=r-users&utm_term=rstudio_rshiny
+
+https://plot.ly/python/
+
+https://plot.ly/1143/~RPlotBot/
+
+https://plot.ly/python/streaming-tutorial/
+
+https://www.youtube.com/watch?v=zG8FYPFU9n4t
+
+http://shop.oreilly.com/product/0636920046592.do?sortby=bestSellers#tab_02_2
+
+
+## Bokeh: Python interactive visualization library for web browser presentation, also with R
+
+https://twitter.com/BokehPlots
+
+http://www.analyticsvidhya.com/blog/2015/08/interactive-data-visualization-library-python-bokeh/
+
+http://datascienceplus.com/interactive-plotting-with-rbokeh/
+
+http://bokeh.pydata.org/en/latest/
+
+www.r-bloggers.com/interactive-plotting-with-rbokeh/
+
+https://www.youtube.com/watch?v=2wq4mZyGJas
+
+https://www.continuum.io/content/christine-doig
+
+https://www.continuum.io/blog/developer-blog/anaconda-r-users-sparkr-and-rbokeh
+
+http://chdoig.github.io/
+
+https://twitter.com/ch_doig
+
+
+## R
+
+stackoverflow.com/questions/14948852/how-to-use-the-pairs-function-combined-with-layout-in-r
+
+https://stat.ethz.ch/R-manual/R-devel/library/graphics/html/pairs.html
+
+http://ww2.coastal.edu/kingw/statistics/R-tutorials/graphically.html
+
+
+## RGGOBI
+
+https://www.youtube.com/watch?v=OIkuQFQLMeo
+
+https://www.youtube.com/watch?v=sHCpGcHOIUM
+
+
+## GGPLOT:
+
+http://blog.danielemaasit.com/2016/02/01/tracking-ggplot2-extensions/
+
+http://varianceexplained.org/r/why-I-use-ggplot2/
+
+http://simplystatistics.org/2016/02/11/why-i-dont-use-ggplot2/
+
+petewerner.blogspot.nl/2012/12/density-plot-with-ggplot.html
+
+http://blog.danielemaasit.com/2016/02/01/tracking-ggplot2-extensions/
+
+https://www.stackoverflow.com/questions/6919025/how-to-assign-colors-to-categorical-variables-in-ggplot2-that-have-stable-mappin
+
+https://www.linkedin.com/grp/post/77616-6102832221096337415
+
+http://flowingdata.com/2015/05/06/introducing-a-course-for-visualization-in-r/
+
+http://stackoverflow.com/questions/6919025/how-to-assign-colors-to-categorical-variables-in-ggplot2-that-have-stable-mappin
+
+## Dashboard building:
+
+https://www.simple-talk.com/sql/bi/using-r-machine-learning-script-as-a-power-bi-desktop-data-source
+
+## Next to matplotlib, ggplot2, also gnuplot:
+
+https://www.youtube.com/watch?v=9k-l_ol9jok
+
+
+## Others
+
+- Tableau
+
+https://www.youtube.com/watch?v=mBBdtCFXG6E
+
+https://www.youtube.com/watch?v=_PRFld2nXAw
+
+- Tableau + MYSQL
+
+http://www.datasciencecentral.com/profiles/blogs/mysql-and-tableau-a-healthcare-application
+
+- Javascript
+
+http://www.kdnuggets.com/2016/02/top-10-data-visualization-github.html
