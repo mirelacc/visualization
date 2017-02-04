@@ -1,0 +1,34 @@
+
+## Perception recap
+
+https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73#.vvh0tjxbr
+
+
+## Considerations
+
+https://alshams.github.io/responsibledata/bias-in-data-viz/
+
+http://policyviz.com/rees-mushon-on-dataviz-empathy/
+
+http://backspace.com/notes/2016/01/ethics-in-data-visualization.php
+
+http://flowingdata.com/2015/08/11/real-chart-rules-to-follow
+
+http://www.which-50.com/visualisation-makes-story-compelling/
+
+https://www.quora.com/Whats-the-best-Edward-Tufte-book
+
+http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR
+
+http://academia.stackexchange.com/questions/20322/surface-plots-vs-colour-maps
+
+https://vimeo.com/153161807
+
+
+## Visualizing uncertainty:
+
+https://medium.com/@uwdata/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740#.kmny7ko24
+
+http://www.amazon.com/gp/product/0470944889/?tag=flowingdata-20
+
+
